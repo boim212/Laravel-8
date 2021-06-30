@@ -21,6 +21,16 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Bagaimana Cara menggunakan Aplikasi ini? | how to use this aplication?
+- Klik Star terlebih dahulu jika ingin mendownload
+- Kemudian download file nya 
+- Unzip file yang telah di download 
+- File hasil unzip tadi pindahkan ke .htdocs atau server local anda
+- Kemudian jalankan aplikasi xampp atau mamp anda
+- Lalu ketik di web browser anda http://localhost/(nama folder anda)
+- Selamat Mencoba.....
+- Salam Titik Koma (;)
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
