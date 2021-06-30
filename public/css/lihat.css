@@ -1,0 +1,104 @@
+body {
+    background-color: #eeeee4;
+}
+
+.card {
+    background-color: #eee4e9;
+}
+
+.navbar {
+    background-color: #444441;
+    margin-bottom: 15px;
+}
+
+.lihat-semua {
+    margin-bottom: 20px;
+    margin-top: -28px;
+    border-radius: 25px;
+}
+
+.judul {
+    margin-top: 28px;
+}
+
+.logo {
+    font-family: "Lobster", cursive;
+    font-size: 30px;
+}
+.navigasi {
+    font-family: "Courgette", cursive;
+    font-size: 20px;
+}
+
+.tonton {
+    margin-bottom: 5px;
+    margin-top: 12px;
+    border-radius: 25px;
+}
+.fa-book {
+    color: rgb(219, 23, 23);
+}
+
+/* ===================================== Quote CSS ================================== */
+.footer-ablove {
+    padding: 30px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 1.5rem;
+}
+.footer-ablove .btn {
+    float: right;
+    background-color: #fff;
+    font-family: "title-font", "Open Sans", sans-serif;
+}
+
+/* ===================================== Footer CSS ================================== */
+.footer {
+    padding: 50px;
+    background-color: white;
+}
+@media screen and (max-width: 940px) {
+    .footer {
+        padding: 30px 10px;
+    }
+}
+.footer h2 {
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: "Glacial Indifference", "Open Sans", sans-serif;
+    margin-bottom: 10px;
+}
+.footer h2 i {
+    background-color: #cc1821;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding-top: 3px;
+    color: #fff;
+    padding-top: 6px;
+    margin-right: 3px;
+}
+.footer .about p {
+    font-size: 0.85rem;
+}
+.footer .link-list li {
+    padding: 3px;
+}
+.footer .link-list li i {
+    float: right;
+}
+
+.copy {
+    padding: 15px;
+    background-color: #007bff;
+}
+
+.copy a {
+    color: white;
+}
+.copy span {
+    float: right;
+}
+.copy span i {
+    margin-right: 15px;
+}
